@@ -1,2 +1,2 @@
 # SW-Webdev
-A place for file from my Software Guild course in Website Developement
+A place for files from my Software Guild course in Website Developement
